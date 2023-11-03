@@ -1,7 +1,2 @@
 ﻿  IATHookingImplant.cpp
-S:\MalwareDeveloped\IATHooking\IATHooking\IATHookingImplant\IATHookingImplant\IATHookingImplant.cpp(7,25): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
-S:\MalwareDeveloped\IATHooking\IATHooking\IATHookingImplant\IATHookingImplant\IATHookingImplant.cpp(7,25): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
-S:\MalwareDeveloped\IATHooking\IATHooking\IATHookingImplant\IATHookingImplant\IATHookingImplant.cpp(8,35): warning C4312: 'type cast': conversion from 'DWORD' to 'IMAGE_DOS_HEADER *' of greater size
-S:\MalwareDeveloped\IATHooking\IATHooking\IATHookingImplant\IATHookingImplant\IATHookingImplant.cpp(9,34): warning C4312: 'type cast': conversion from 'unsigned long' to 'IMAGE_NT_HEADERS *' of greater size
-S:\MalwareDeveloped\IATHooking\IATHooking\IATHookingImplant\IATHookingImplant\IATHookingImplant.cpp(12,44): warning C4312: 'type cast': conversion from 'unsigned long' to 'IMAGE_IMPORT_DESCRIPTOR *' of greater size
   IATHookingImplant.vcxproj -> S:\MalwareDeveloped\IATHooking\IATHooking\IATHookingImplant\x64\Debug\IATHookingImplant.exe
